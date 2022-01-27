@@ -30,3 +30,8 @@ git push origin main
 
 - Sirve para poder subir los cambios a nuestro repositorio en la nube, en este caso github
 ```
+
+```
+git pull origin mail
+```
+- Sirve para poder descargar los cambios de nuestro repositorio en la nube, en este caso github
